@@ -1,4 +1,4 @@
-#PokerHand takes a array of strings with first character as 1,2,3,4,5 and second character as A,B,C,D,E
+#PokerHand takes an array of 5 strings with first character as 1,2,3,4,5 and second character as A,B,C,D,E
 #PokerHand includes isFlush, isPair, and isThreeOfAKind methods to determine what type of hand the poker hand is
 
 #PokerHand class is used to encapsulate a poker hand
